@@ -1,1 +1,1 @@
-include ':app', ':ovaltabview'
+include ':app', ':ovaltabview', ':calendarview'
